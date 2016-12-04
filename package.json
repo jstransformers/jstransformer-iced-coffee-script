@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-iced-coffee-script",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Iced-Coffee-Script support for JSTransformers.",
   "keywords": [
     "jstransformer"
