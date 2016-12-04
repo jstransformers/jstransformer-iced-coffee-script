@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.0.1: 2016-12-03
+## v1.0.1: [Unreleased]
 
 - Update iced-coffee-script to 111.1.1
 
