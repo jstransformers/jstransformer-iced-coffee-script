@@ -1,7 +1,5 @@
 # jstransformer-iced-coffee-script
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-iced-coffee-script.svg)](https://greenkeeper.io/)
-
 [IcedCoffeeScript](http://maxtaco.github.io/coffee-script/) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-iced-coffee-script/master.svg)](https://travis-ci.org/jstransformers/jstransformer-iced-coffee-script)
