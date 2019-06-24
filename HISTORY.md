@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.0: 2017-06-11
+
+- Update `iced-coffee-script@^112.8.0`
+
 ## v1.1.0: 2017-06-11
 
 - Update Boilerplate
